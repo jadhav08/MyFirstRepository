@@ -1,5 +1,6 @@
-Welecome to git..............!!!
+getWelecome to git..............!!!
 
 changes by me........
 
-change 2 
+change 2
+change 3
